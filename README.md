@@ -54,8 +54,8 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 [Ans: Some of the challenges I had while doing this project was that these all languages were new to me, I have never worked with html,
 css, and js but they were not complicated to have learn. Also this was my first time doing web developing and I would say it went really 
-great. One challenge I faced was how to render gif directly in readme, I was trying to figure it out then I used youtube and found a way to 
-it. Everything else was straight forward since the instructions were easy to follow.] 
+great. One challenge I faced was how to render gif directly in readme, I was trying to figure it out then I save gif in assets at glitch and then 
+which gave me access to link that I was able to use it on readme. Everything else was straight forward since the instructions were easy to follow.] 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 
